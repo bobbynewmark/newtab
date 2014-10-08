@@ -2,8 +2,8 @@
   "name": "newtab",
   "title": "newtab",
   "id": "jid1-MHMUlYaggzrANQ",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Make them new tabs the way I wants...",
+  "author": "Andrew Cox",
   "license": "MPL 2.0",
-  "version": "0.2"
+  "version": "0.2.1"
 }
