@@ -1,0 +1,51 @@
+body
+{
+    margin: 0px;
+}
+
+.container
+{
+    position: relative;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-color:black;    
+    height: 100%;
+    -moz-box-flex: 1;
+    -moz-user-focus: normal;
+    -moz-box-orient: vertical;
+}
+
+h1, h2
+{
+    text-align: center;
+    color: whitesmoke;
+    font-family: Verdana;
+    text-shadow: 0px 0px 10px black;
+    margin:0px;
+}
+
+#topSection
+{
+    position: relative;
+    width: 600px;
+    margin: 0 auto;
+    top: 100px;
+}
+
+.clickdiv { 
+    background-color: #FA0;
+    border-radius:10px;
+    width :20px;
+    height:20px; 
+    position:absolute; 
+}
+
+#refresh {
+    width: 50px; 
+    float: right; 
+    margin: 15px;
+}
+
+#refresh img {
+    width: 50px;
+}
